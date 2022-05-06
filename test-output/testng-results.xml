@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="133741" started-at="2022-05-06T06:59:08Z" finished-at="2022-05-06T07:01:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="133741" started-at="2022-05-06T06:59:08Z" finished-at="2022-05-06T07:01:22Z">
+      <class name="org.registeration.Terms">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.Terms@1b0f2b9]" name="setup" is-config="true" duration-ms="10040" started-at="2022-05-06T06:59:08Z" finished-at="2022-05-06T06:59:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc003()[pri:0, instance:org.registeration.Terms@1b0f2b9]" name="tc003" duration-ms="10585" started-at="2022-05-06T06:59:18Z" finished-at="2022-05-06T06:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.Terms@1b0f2b9]" name="tearDown" is-config="true" duration-ms="924" started-at="2022-05-06T06:59:29Z" finished-at="2022-05-06T06:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.registeration.Terms -->
+      <class name="org.registeration.phoneNoInCorrect">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.phoneNoInCorrect@79924b]" name="setup" is-config="true" duration-ms="5699" started-at="2022-05-06T06:59:29Z" finished-at="2022-05-06T06:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc002()[pri:0, instance:org.registeration.phoneNoInCorrect@79924b]" name="tc002" duration-ms="6829" started-at="2022-05-06T06:59:35Z" finished-at="2022-05-06T06:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.phoneNoInCorrect@79924b]" name="tearDown" is-config="true" duration-ms="1033" started-at="2022-05-06T06:59:42Z" finished-at="2022-05-06T06:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.registeration.phoneNoInCorrect -->
+      <class name="org.registeration.AccountCreation">
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="setup" is-config="true" duration-ms="5517" started-at="2022-05-06T06:59:45Z" finished-at="2022-05-06T06:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tc001" duration-ms="11444" started-at="2022-05-06T06:59:50Z" data-provider="regData" finished-at="2022-05-06T07:00:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[G]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[irahhari1232]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nbjnjkn2165561]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9523265234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tearDown" is-config="true" duration-ms="1136" started-at="2022-05-06T07:00:02Z" finished-at="2022-05-06T07:00:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="setup" is-config="true" duration-ms="4958" started-at="2022-05-06T07:00:03Z" finished-at="2022-05-06T07:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tc001" duration-ms="11950" started-at="2022-05-06T07:00:08Z" data-provider="regData" finished-at="2022-05-06T07:00:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kalai]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[H]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kalailai4561]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[vbhvhbd5165)(]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9523265234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1999]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tearDown" is-config="true" duration-ms="977" started-at="2022-05-06T07:00:20Z" finished-at="2022-05-06T07:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="setup" is-config="true" duration-ms="6071" started-at="2022-05-06T07:00:21Z" finished-at="2022-05-06T07:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tc001" duration-ms="11075" started-at="2022-05-06T07:00:27Z" data-provider="regData" finished-at="2022-05-06T07:00:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gandhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[I]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gandhi2532]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[515513dssd]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9523265234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[26]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1998]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tearDown" is-config="true" duration-ms="1128" started-at="2022-05-06T07:00:38Z" finished-at="2022-05-06T07:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="setup" is-config="true" duration-ms="4965" started-at="2022-05-06T07:00:39Z" finished-at="2022-05-06T07:00:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tc001" duration-ms="17454" started-at="2022-05-06T07:00:44Z" data-provider="regData" finished-at="2022-05-06T07:01:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhuvana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[U]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bhuvananavana2153]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jn%n)*122]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9523265234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1996]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tearDown" is-config="true" duration-ms="1105" started-at="2022-05-06T07:01:01Z" finished-at="2022-05-06T07:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="setup" is-config="true" duration-ms="6712" started-at="2022-05-06T07:01:03Z" finished-at="2022-05-06T07:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tc001(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tc001" duration-ms="11393" started-at="2022-05-06T07:01:09Z" data-provider="regData" finished-at="2022-05-06T07:01:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raghul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[raghul2355]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ewf1535115]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[IN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[9523265234]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[1995]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.registeration.AccountCreation@19a4292]" name="tearDown" is-config="true" duration-ms="992" started-at="2022-05-06T07:01:21Z" finished-at="2022-05-06T07:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.registeration.AccountCreation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
